@@ -56,3 +56,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#ignore xml file due to size
+enwiki-latest-pages-articles.xml
+
+# jupyter 
+
+*.ipynb_checkpoints
