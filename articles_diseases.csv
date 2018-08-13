@@ -1,129 +1,1078 @@
-id,title
-25,Autism,['{{ICD9|299.00}}']
-876,Motor neuron disease,['{{ICD9|335.2}} ']
-967,Acute disseminated encephalomyelitis,"['{{ICD9|323.61}}, {{ICD9|323.81}}']"
-1386,Arachnophobia,['{{ICD9|xxx}}-->']
-1776,Arthritis,['{{ICD9|710}}-{{ICD9|719}}']
-2909,Albinism in humans,['{{ICD9|270.2}}']
-3135,Arteriovenous malformation,"['{{ICD9|747.6}}, {{ICD9|747.81}} ']"
-3840,Brain abscess,['{{ICD9|324.0}} ']
-4581,Bacterial vaginosis,['{{ICD9|616.1}} ']
-4746,Plague (disease),['{{ICD9|020}}']
-4918,Bipolar I disorder,['{{ICD9|296.7}} ']
-5617,Creutzfeldt–Jakob disease,['{{ICD9|046.1}}']
-5721,Coma,['{{ICD9|780.01}}']
-5872,Bradycardia,"['{{ICD9|427.81}}, {{ICD9|659.7}}, {{ICD9|785.9}}, {{ICD9|779.81}}']"
-6352,Congenital iodine deficiency syndrome,['{{ICD9|243}} ']
-7038,Candidiasis,['{{ICD9|112}}']
-7659,Cerebral arteriovenous malformation,['{{ICD9|747.81}}']
-7845,Charcot–Marie–Tooth disease,['{{ICD9|356.1}} ']
-7846,Central pontine myelinolysis,['{{ICD9|xxx}}-->']
-8011,Alcohol intoxication,"['{{ICD9|305.0}}, {{ICD9|980}}']"
-9659,Endocarditis,['{{ICD9|421}}']
-9841,Expressive aphasia,['{{ICD9|315.31}}']
-10511,Epilepsy,['{{ICD9|345}}']
-10528,Essential tremor,['{{ICD9|333.1}}']
-10898,Fugue state,['{{ICD9|300.13}} ']
-11806,Foix–Alajouanine syndrome,['{{ICD9|336.1}} ']
-12265,Goitre,['{{ICD9|240.9}} ']
-13528,Hemiparesis,"['{{ICD9|342.9}}, {{ICD9|094.89}}, {{ICD9|438.2}} ']"
-14783,Erectile dysfunction,"['{{ICD9|302.72}}, {{ICD9|607.84}}']"
-15354,Interstitial cystitis,['{{ICD9|595.1}}']
-15538,Inclusion body myositis,['{{ICD9|359.71}} ']
-16994,Kwashiorkor,['{{ICD9|260}}']
-17455,Kocher–Debre–Semelaigne syndrome,['{{ICD9|xxx}}-->']
-17886,Lafora disease,['{{ICD9|333.2}} ']
-18450,Lung cancer,['{{ICD9|162}}']
-18722,Lymphedema,"['{{ICD9|457.0}}, {{ICD9|457.1}}, {{ICD9|757.0}}']"
-18982,Muscular dystrophy,['{{ICD9|359.0}}-{{ICD9|359.1}} ']
-20452,Meconium aspiration syndrome,"['{{ICD9|770.11}}, {{ICD9|770.12}}']"
-21221,Neuromyotonia,['{{ICD9|333.90}} ']
-21937,Nitrogen narcosis,[]
-22461,Osteoporosis,['{{ICD9|733.0}}']
-22786,Optic neuritis,['{{ICD9|377.30}} ']
-23251,Phenylketonuria,['{{ICD9|270.1}}']
-23337,Phobia,['{{ICD9|300.20}}']
-23497,Paroxysmal attack,[]
-23592,Paraphilia,[]
-24514,Psychosis,['{{ICD9|290}}-{{ICD9|299}} ']
-24515,Paranoia,"['{{ICD9|295.3}}, {{ICD9|297.1}}, {{ICD9|297.2}}']"
-24579,Pelvic inflammatory disease,['{{ICD9|614}}-{{ICD9|616}}']
-24595,Autosomal dominant polycystic kidney disease,['{{ICD9|753.1}} ']
-25160,Progressive multifocal leukoencephalopathy,['{{ICD9|046.3}}  ']
-25161,Idiopathic intracranial hypertension,['{{ICD9|348.2}}']
-25756,Repetitive strain injury,"['{{ICD9|E927.1}}, {{ICD9|E927.3}}—{{ICD9|E927.9}}, {{ICD9|727.2}}']"
-25987,Rickets,[]
-26011,Receptive aphasia,['{{ICD9|784.3}} ']
-26378,Rift Valley fever,['{{ICD9|066.3}} ']
-26492,Ramsay Hunt syndrome type 2,['{{ICD9|053.11}} ']
-26951,Systemic scleroderma,['{{ICD9|710.1}} ']
-27154,Epileptic seizure,"['{{ICD9|345.9}}, {{ICD9|780.3}} ']"
-28394,Stuttering,['{{ICD9|307.0}} ']
-29666,Syringomyelia,['{{ICD9|336.0}} {{ICD9|742.53}} ']
-30707,Temporomandibular joint dysfunction,['{{ICD9|524.60}}']
-31596,Typhoid fever,['{{ICD9|002}}']
-31620,Giant-cell arteritis,['{{ICD9|446.5}} ']
-31621,Transient ischemic attack,['{{ICD9|435.9}} ']
-31622,Transverse myelitis,"['{{ICD9|323.82}}, {{ICD9|341.2}}']"
-32134,Urethritis,['{{ICD9|597}} {{ICD9|099.4}}']
-32688,Vulvodynia,['{{ICD9|625.7}}']
-32768,Von Hippel–Lindau disease,['{{ICD9|759.6}} ']
-32834,Varicose veins,"['{{ICD9|454}}-{{ICD9|456}}, {{ICD9|671}}']"
-34439,Zoonosis,[]
-36202,5α-Reductase deficiency,"['{{ICD9|257.2}}, {{ICD9|752.7}}']"
-37220,Infection,['{{ICD9|001-139}}']
-37284,Brain tumor,"['{{ICD9|191}}, {{ICD9|225.0}} ']"
-37641,Head injury,['{{ICD9|800}}-{{ICD9|879}}  ']
-37796,West Nile fever,['{{ICD9|066.4}} ']
-39411,XYY syndrome,['{{ICD9|758.8}} ']
-39653,Dissociative identity disorder,['{{ICD9|300.14}}']
-40142,Botulism,"['{{ICD9|005.1}},{{ICD9|040.41}},{{ICD9|040.42}}']"
-42795,Anorexia (symptom),['{{ICD9|783.0}} ']
-43097,Gender dysphoria,['{{ICD9|302.85}} ']
-43871,Fatal insomnia,['{{ICD9|046.72}} ']
-44061,Convulsion,['{{ICD9|125.7}} ']
-44738,Diabetes insipidus,['{{ICD9|253.5}} {{ICD9|588.1}} ']
-46133,Cardiomyopathy,['{{ICD9|425}} ']
-46177,Epidemic typhus,['{{ICD9|080}}-{{ICD9|083}} ']
-46253,Fever,['{{ICD9|780.6}} ']
-46262,Nightmare,['{{ICD9|xxx}}']
-46966,Sleep disorder,"['{{ICD9|307.4}}, {{ICD9|327}}, {{ICD9|780.5}}']"
-47588,Neurosis,[]
-49611,Menopause,['{{ICD9|627.2}} ']
-50524,Melanocytic nevus,['{{ICD9|216}} ']
-50608,Parkinsonism,['{{ICD9|332}} ']
-51303,Cowpox,['{{ICD9|051.01}}']
-51803,Azotemia,['{{ICD9|790.6}} ']
-52316,Mood disorder,['{{ICD9|296}} ']
-52789,Androgen insensitivity syndrome,['{{ICD9|259.5}}']
-52952,Adrenoleukodystrophy,"['{{ICD9|330.0}}, {{ICD9|277.86}}']"
-53142,Fragile X syndrome,['{{ICD9|759.83}} ']
-53338,Cervical cancer,['{{ICD9|180}} ']
-54309,Ectopic pregnancy,['{{ICD9|633}}']
-54426,Factitious disorder imposed on self,['{{ICD9|301.51}}']
-54439,Metabolic syndrome,['{{ICD9|277.7}}']
-54448,Insulin resistance,[]
-54712,Abdominal obesity,['{{ICD9|278}}']
-54996,Prader–Willi syndrome,['{{ICD9|759.81}}']
-55313,Allergy,['{{ICD9|995.3}}']
-55584,Gout,['{{ICD9|274.00}} {{ICD9|274.1}} {{ICD9|274.8}} {{ICD9|274.9}}']
-55922,Prostatitis,['{{ICD9|601}} ']
-55967,Communication disorder,['{{ICD9|315.3}}']
-56227,Skin tag,['{{ICD9|701.9}} ']
-56283,Complex regional pain syndrome,"['{{ICD9|337.21}}, {{ICD9|337.22}}, {{ICD9|354.4}}, {{ICD9|355.71}} ']"
-56458,Apraxia,"['{{ICD9|438.81}}, {{ICD9|784.69}}  ']"
-56461,Canavan disease,['{{ICD9|330.0}} ']
-56462,Carpal tunnel syndrome,['{{ICD9|354.0}}']
-56464,Joubert syndrome,['{{ICD9|742.2}}']
-56469,Pelizaeus–Merzbacher disease,['{{ICD9|330.0}} ']
-56476,Rett syndrome,['{{ICD9|330.8}} ']
-56480,Q fever,['{{ICD9|083.0}} ']
-56481,Tay–Sachs disease,['{{ICD9|330.1}}']
-56526,Diabetic ketoacidosis,['{{ICD9|250.1}}']
-56531,Retinopathy,['{{ICD9|362.0}}-{{ICD9|362.2}} ']
-56533,Diabetic retinopathy,['{{ICD9|250.5}} ']
-56552,Jet lag,"['{{ICD9|307.45}}, {{ICD9|780.50}} {{ICD9|327.35}}']"
-56579,Achondroplasia,['{{ICD9|756.4}} ']
-56825,Eating disorder,['{{ICD9|307.5}}']
-56873,Lactose intolerance,['{{ICD9|271.3}} ']
-58180,Freckle,['{{ICD9|709.09}} ']
+25,Autism,['299.0']
+876,Motor neuron disease,['335.2']
+967,Acute disseminated encephalomyelitis,"['323.6', '323.8']"
+1386,Arachnophobia,[]
+1776,Arthritis,"['710', '719']"
+2909,Albinism in humans,['270.2']
+3135,Arteriovenous malformation,"['747.6', '747.8']"
+3840,Brain abscess,['324.0']
+4581,Bacterial vaginosis,['616.1']
+4746,Plague (disease),['020']
+4918,Bipolar I disorder,['296.7']
+5617,Creutzfeldt–Jakob disease,['046.1']
+5721,Coma,['780.0']
+5872,Bradycardia,"['427.8', '659.7', '785.9', '779.8']"
+6352,Congenital iodine deficiency syndrome,['243']
+7038,Candidiasis,['112']
+7659,Cerebral arteriovenous malformation,['747.8']
+7845,Charcot–Marie–Tooth disease,['356.1']
+7846,Central pontine myelinolysis,[]
+8011,Alcohol intoxication,"['305.0', '980']"
+9659,Endocarditis,['421']
+9841,Expressive aphasia,['315.3']
+10511,Epilepsy,['345']
+10528,Essential tremor,['333.1']
+10898,Fugue state,['300.1']
+11806,Foix–Alajouanine syndrome,['336.1']
+12265,Goitre,['240.9']
+13528,Hemiparesis,"['342.9', '094.8', '438.2']"
+14783,Erectile dysfunction,"['302.7', '607.8']"
+15354,Interstitial cystitis,['595.1']
+15538,Inclusion body myositis,['359.7']
+16994,Kwashiorkor,['260']
+17455,Kocher–Debre–Semelaigne syndrome,[]
+17886,Lafora disease,['333.2']
+18450,Lung cancer,['162']
+18722,Lymphedema,"['457.0', '457.1', '757.0']"
+18982,Muscular dystrophy,"['359.0', '359.1']"
+20452,Meconium aspiration syndrome,"['770.1', '770.1']"
+21221,Neuromyotonia,['333.9']
+21937,Nitrogen narcosis,NA
+22461,Osteoporosis,['733.0']
+22786,Optic neuritis,['377.3']
+23251,Phenylketonuria,['270.1']
+23337,Phobia,['300.2']
+23497,Paroxysmal attack,NA
+23592,Paraphilia,NA
+24514,Psychosis,"['290', '299']"
+24515,Paranoia,"['295.3', '297.1', '297.2']"
+24579,Pelvic inflammatory disease,"['614', '616']"
+24595,Autosomal dominant polycystic kidney disease,['753.1']
+25160,Progressive multifocal leukoencephalopathy,['046.3']
+25161,Idiopathic intracranial hypertension,['348.2']
+25756,Repetitive strain injury,"['E927.1', 'E927.3', 'E927.9', '727.2']"
+25987,Rickets,NA
+26011,Receptive aphasia,['784.3']
+26378,Rift Valley fever,['066.3']
+26492,Ramsay Hunt syndrome type 2,['053.1']
+26951,Systemic scleroderma,['710.1']
+27154,Epileptic seizure,"['345.9', '780.3']"
+28394,Stuttering,['307.0']
+29666,Syringomyelia,"['336.0', '742.5']"
+30707,Temporomandibular joint dysfunction,['524.6']
+31596,Typhoid fever,['002']
+31620,Giant-cell arteritis,['446.5']
+31621,Transient ischemic attack,['435.9']
+31622,Transverse myelitis,"['323.8', '341.2']"
+32134,Urethritis,"['597', '099.4']"
+32688,Vulvodynia,['625.7']
+32768,Von Hippel–Lindau disease,['759.6']
+32834,Varicose veins,"['454', '456', '671']"
+34439,Zoonosis,NA
+36202,5α-Reductase deficiency,"['257.2', '752.7']"
+37220,Infection,"['001', '139']"
+37284,Brain tumor,"['191', '225.0']"
+37641,Head injury,"['800', '879']"
+37796,West Nile fever,['066.4']
+39411,XYY syndrome,['758.8']
+39653,Dissociative identity disorder,['300.1']
+40142,Botulism,"['005.1', '040.4', '040.4']"
+42795,Anorexia (symptom),['783.0']
+43097,Gender dysphoria,['302.8']
+43871,Fatal insomnia,['046.7']
+44061,Convulsion,['125.7']
+44738,Diabetes insipidus,"['253.5', '588.1']"
+46133,Cardiomyopathy,['425']
+46177,Epidemic typhus,"['080', '083']"
+46253,Fever,['780.6']
+46262,Nightmare,[]
+46966,Sleep disorder,"['307.4', '327', '780.5']"
+47588,Neurosis,NA
+49611,Menopause,['627.2']
+50524,Melanocytic nevus,['216']
+50608,Parkinsonism,['332']
+51303,Cowpox,['051.0']
+51803,Azotemia,['790.6']
+52316,Mood disorder,['296']
+52789,Androgen insensitivity syndrome,['259.5']
+52952,Adrenoleukodystrophy,"['330.0', '277.8']"
+53142,Fragile X syndrome,['759.8']
+53338,Cervical cancer,['180']
+54309,Ectopic pregnancy,['633']
+54426,Factitious disorder imposed on self,['301.5']
+54439,Metabolic syndrome,['277.7']
+54448,Insulin resistance,NA
+54712,Abdominal obesity,['278']
+54996,Prader–Willi syndrome,['759.8']
+55313,Allergy,['995.3']
+55584,Gout,"['274.0', '274.1', '274.8', '274.9']"
+55922,Prostatitis,['601']
+55967,Communication disorder,['315.3']
+56227,Skin tag,['701.9']
+56283,Complex regional pain syndrome,"['337.2', '337.2', '354.4', '355.7']"
+56458,Apraxia,"['438.8', '784.6']"
+56461,Canavan disease,['330.0']
+56462,Carpal tunnel syndrome,['354.0']
+56464,Joubert syndrome,['742.2']
+56469,Pelizaeus–Merzbacher disease,['330.0']
+56476,Rett syndrome,['330.8']
+56480,Q fever,['083.0']
+56481,Tay–Sachs disease,['330.1']
+56526,Diabetic ketoacidosis,['250.1']
+56531,Retinopathy,"['362.0', '362.2']"
+56533,Diabetic retinopathy,['250.5']
+56552,Jet lag,"['307.4', '780.5', '327.3']"
+56579,Achondroplasia,['756.4']
+56825,Eating disorder,['307.5']
+56873,Lactose intolerance,['271.3']
+58180,Freckle,['709.0']
+58637,Erysipelas,['035']
+58638,Group A streptococcal infection,NA
+58743,Marburg virus disease,['078.8']
+59743,Panic attack,['300.0']
+60140,Sjögren syndrome,['710.2']
+61048,Decompression sickness,['993.3']
+61750,Gumma (pathology),"['090.5', '094.9', '095', '102.6']"
+62580,Motion sickness,['994.6']
+63050,Eosinophilia–myalgia syndrome,['710.5']
+63531,Ulcerative colitis,['556']
+64976,Attention deficit hyperactivity disorder,"['314.0', '314.0']"
+64993,Skin cancer,"['172', '173']"
+65344,Sudden infant death syndrome,['798.0']
+66790,Specific phobia,['300.2']
+66811,Seasonal affective disorder,NA
+67869,Pontiac fever,['482.8']
+67886,Iliotibial band syndrome,['728.8']
+68349,HFE hereditary haemochromatosis,['275.0']
+68451,Abetalipoproteinemia,['272.5']
+68937,Trichotillomania,['312.3']
+70547,Breast cancer,"['174', '175']"
+70802,Decapitation,NA
+71635,Cytomegalovirus,['078.5']
+75090,Phocomelia,"['755.2', '755.4']"
+76896,Bornholm disease,['074.1']
+77485,Altitude sickness,['E902.0']
+77538,Perspiration,NA
+77668,Scar,NA
+78226,Hyperglycemia,['790.2']
+78944,Hemoglobinopathy,['282.7']
+79995,Sly syndrome,['277.5']
+80250,Endemic goitre,['240.9']
+82479,Cholesteatoma,['385.3']
+83461,Rocky Mountain spotted fever,['082.0']
+83896,Priapism,NA
+83947,Trichinosis,['124']
+84139,Ketosis,['276.2']
+87867,Paranoid schizophrenia,['295.3']
+88042,Near-sightedness,['367.1']
+88078,Prostate cancer,['185']
+88277,Chromosome 15q trisomy,[]
+88863,Chromosome 15q partial deletion,[]
+88869,Trichomoniasis,"['131', '007.3']"
+88931,Cataract,['366']
+88983,Prune belly syndrome,['756.7']
+88988,Anosmia,['781.1']
+89977,Brachydactyly,"['755.2', '755.4']"
+90901,Waterhouse–Friderichsen syndrome,['036.3']
+92399,Impetigo,['684']
+92962,Lemierre's syndrome,[]
+93771,Morvan's syndrome,['336.0']
+95385,Cenani–Lenz syndactylism,NA
+95389,Say–Meyer syndrome,[]
+95801,Conjoined twins,"['678.1', '759.4']"
+99163,Argyria,['985.8']
+99277,Neuroleptic malignant syndrome,['333.9']
+101604,Hirsutism,['704.1']
+101956,Orthostatic hypotension,['458.0']
+102959,Substance abuse,['305']
+103558,Vitamin deficiency,"['264', '269']"
+129139,Periodontal disease,[]
+138301,Dwarfism,"['253.3', '259.4']"
+140968,Rotavirus,['008.6']
+141029,African trypanosomiasis,['086.5']
+144147,Miscarriage,['634']
+144837,Chronic pain,['338.2']
+146061,Pili multigemini,[]
+146311,Shock (circulatory),['785.5']
+146315,Bleeding,['459.0']
+146641,Mastocytosis,"['757.3', '202.6']"
+146879,Hypothermia,['991.6']
+147259,Peyronie's disease,['607.8']
+148249,Alkaptonuria,['270.2']
+148422,Brief reactive psychosis,['298.8']
+149467,Myalgia,['729.1']
+149778,General paresis of the insane,"['090.4', '094.1']"
+149980,Intrauterine growth restriction,['764.9']
+150374,Self-harm,NA
+151196,Acute radiation syndrome,['990']
+151524,Febrile seizure,['780.3']
+153807,Back pain,['724.5']
+154349,Diabetic coma,"['250.2', '250.3']"
+155056,Dehydration,['276.5']
+155131,Bruxism,['306.8']
+155623,Brugada syndrome,['746.8']
+156668,Ehlers–Danlos syndromes,['756.8']
+156778,Hypochondriasis,['300.7']
+157052,Locked-in syndrome,['344.8']
+157529,Delirium,['780.0']
+158402,Iron deficiency,NA
+159209,Conduct disorder,['312']
+159670,Adenosine monophosphate deaminase deficiency type 1,NA
+160125,Mitochondrial disease,['277.8']
+160581,Tachycardia,"['427', '785.0']"
+160847,Glycogen storage disease type V,['271.0']
+160851,Glycogen storage disease,['271.0']
+162143,Keloid,['701.4']
+163428,Acheiropodia,NA
+166829,Choking,"['784.9', '933.1']"
+167683,Mittelschmerz,['625.2']
+168509,Constipation,['564.0']
+168536,Bulimia nervosa,['307.5']
+168801,Embolism,['444.9']
+169498,Alopecia areata,['704.0']
+172305,Viral meningitis,['321.2']
+172323,Rubella,['056']
+172327,Congenital rubella syndrome,['771.0']
+177127,Balance disorder,['780.4']
+177885,Esotropia,['378.0']
+179400,Urinary incontinence,['788.3']
+180774,Bowen's disease,"['230', '234']"
+181636,Histrionic personality disorder,['301.5']
+183048,Thrombosis,"['437.6', '453', '671.5', '671.9']"
+183058,Thrombus,[]
+183858,Ventricular fibrillation,['427.4']
+183919,Coccidioidomycosis,['114']
+185370,Drooling,['527.7']
+185373,Agranulocytosis,['288.0']
+185450,Esophageal atresia,['750.3']
+185617,Chorditis,['478.5']
+185621,Vocal cord nodule,['478.5']
+185887,Respiratory failure,['518.8']
+186367,Myelodysplastic syndrome,['238.7']
+186641,Loa loa filariasis,['125.2']
+188219,Reinke's edema,['478.6']
+188288,Arteriosclerosis,NA
+188523,Macropsia,['368.1']
+188665,Genital wart,['078.1']
+189093,Esophageal achalasia,['530.0']
+190455,Adducted thumb syndrome,NA
+190961,Hyponatremia,['276.1']
+191510,Congenital disorder of glycosylation,['271.8']
+192184,Pica (disorder),['307.5']
+192413,Polydactyly,['755.0']
+192762,Bladder cancer,['188']
+194278,Aortic stenosis,"['395.0', '396.0', '746.3']"
+194950,Tetraplegia,['344.0']
+195201,Paraphimosis,['605']
+195216,Phimosis,['605']
+195508,Tracheomalacia,"['519.1', '748.3']"
+195631,Langer–Giedion syndrome,NA
+196125,Aplastic anemia,['284']
+196741,Severe acute respiratory syndrome,['079.8']
+196950,Esophageal motility disorder,NA
+196974,Cough,['786.2']
+196998,Barrett's esophagus,['530.8']
+197574,Ascites,['789.5']
+198188,Hiatal hernia,"['553.3', '750.6']"
+199312,Haemophilia A,['286.0']
+199559,Haemophilia B,['286.1']
+200129,Hair loss,['704.0']
+203297,Hydrocephalus,"['331.3', '331.4', '741.0', '742.3']"
+206877,Anotia,NA
+208311,Chorioretinitis,[]
+208893,Chiari malformation,"['348.4', '741.0']"
+210559,Fistula,NA
+211273,Akathisia,"['781.0', '333.9']"
+217947,Premenstrual syndrome,['625.4']
+219367,Drowning,['994.1']
+219906,Intracranial aneurysm,['437.3']
+219939,Mycoplasma,['041.8']
+223208,Pharyngitis,"['462', '472.1']"
+226748,Stillbirth,NA
+227167,Dementia with Lewy bodies,['331.8']
+227183,Binswanger's disease,['290.1']
+227627,Lewy body dementia,NA
+229063,Schizoid personality disorder,['301.2']
+229428,Barth syndrome,['759.8']
+230476,Premature ventricular contraction,['427.6']
+231014,Delayed sleep phase disorder,['327.3']
+231017,Advanced sleep phase disorder,['327.3']
+231286,Obstetric fistula,['619']
+231994,Alcohol abuse,['305.0']
+232025,Cephalic disorder,"['740', '742']"
+232035,Anencephaly,['740.0']
+232039,Holoprosencephaly,['742.2']
+232046,Hydranencephaly,['742.3']
+232047,Iniencephaly,['740.2']
+232048,Lissencephaly,['742.2']
+232049,Megalencephaly,['742.4']
+232051,Microcephaly,['742.1']
+232052,Porencephaly,"['348.0', '742.4']"
+232053,Schizencephaly,['742.4']
+232056,Macrocephaly,['756.0']
+232061,Oxycephaly,['756.0']
+232063,Scaphocephaly,['756.0']
+232921,Severe combined immunodeficiency,['279.2']
+233082,Burn,"['940', '949']"
+233389,Möbius syndrome,['352.6']
+233735,Hereditary spastic paraplegia,['334.1']
+234185,Compartment syndrome,"['729.7', '958.9']"
+234482,Whiplash (medicine),['847.0']
+235393,Amenorrhea,['626.0']
+235419,Neutropenia,['288.0']
+236300,Morning sickness,['643.0']
+236306,TAR syndrome,['287.3']
+237242,Adenocarcinoma,"['151.0', '182.0']"
+237585,Hepatocellular carcinoma,['155']
+238124,Disseminated intravascular coagulation,['286.6']
+238146,Neutrophilia,NA
+238273,Antiphospholipid syndrome,NA
+238300,Factor V Leiden,['289.8']
+238806,Eosinophilia,['288.3']
+238815,Monocytosis,['288.8']
+238850,Lymphocytosis,['288.8']
+239890,Cleft lip and cleft palate,['749']
+240096,Photokeratitis,['370.2']
+240559,Delusional parasitosis,NA
+240832,Restless legs syndrome,['333.9']
+242189,Pervasive developmental disorder,['299']
+242284,Tetralogy of Fallot,['745.2']
+242702,Monkeypox,['059.0']
+242901,Schizoaffective disorder,['295.7']
+243539,Esophageal cancer,['150']
+245969,Ulcer (dermatology),['707.0']
+245973,Mouth ulcer,['528.9']
+246206,Psittacosis,['073']
+247435,Hypertensive retinopathy,['362.1']
+249357,Sleepwalking,NA
+249921,Bunion,['727.1']
+249922,Callus,['700']
+249924,Cerebrovascular disease,NA
+249961,Lactic acidosis,['276.2']
+249962,Lipodystrophy,['272.6']
+249964,Microangiopathy,['443.9']
+251047,Delusional disorder,['297.1']
+252630,Keratoconus,['371.6']
+255490,Lymphogranuloma venereum,['099.1']
+256854,Trench fever,['083.1']
+258666,Polyuria,['788.4']
+258979,Malnutrition,NA
+261568,Pityriasis lichenoides et varioliformis acuta,['696.2']
+261613,Stomach cancer,['151']
+262573,Cardiac tamponade,['423.3']
+263244,Ergotism,['988.2']
+263801,Alien hand syndrome,['781.8']
+264246,Nephrotic syndrome,['581']
+265002,Septo-optic dysplasia,['742.2']
+269032,Methemoglobinemia,['289.7']
+270792,Anhedonia,NA
+271672,De Quervain syndrome,['727.0']
+272537,Stenosing tenosynovitis,"['727.0', '727.0']"
+272541,Tenosynovitis,['727.0']
+272559,Trigger finger,['727.0']
+274371,Intersection syndrome,[]
+274848,Tularemia,['021']
+275206,Vaginismus,"['306.5', '625.1']"
+276560,Orf (disease),['051.2']
+277088,Pheochromocytoma,"['227.0', '194.0', '255.6']"
+277098,Multiple endocrine neoplasia,['258.0']
+284044,Teratoma,NA
+284827,Testicular torsion,['608.2']
+285293,Acute necrotizing ulcerative gingivitis,['101']
+285729,Thalassemia,['282.4']
+286191,Torticollis,['723.5']
+286633,Pasteurellosis,['027.2']
+287531,Gallstone,['574']
+287543,Necrotizing fasciitis,['728.8']
+288150,Lipoma,['214']
+288196,Sarcoma,NA
+290448,Kernicterus,"['773.4', '774.7']"
+290842,Obsessive–compulsive personality disorder,['301.4']
+291374,Non-gonococcal urethritis,"['099.4', '597']"
+292103,Premature ejaculation,['302.7']
+292107,Dyspareunia,['625.0']
+294338,Lead poisoning,['984.9']
+294533,Nephritis,NA
+294990,Capgras delusion,NA
+295047,Legg–Calvé–Perthes disease,['732.1']
+300221,Testicular cancer,['186.9']
+301920,Roseola,['057.8']
+301930,Fifth disease,['057.0']
+302454,Mesothelioma,['163']
+302755,Acute bronchitis,['466']
+304588,Brain damage,[]
+307837,Shoulder problem,[]
+308573,Caroli disease,NA
+308793,Aneuploidy,['758']
+309960,Cryptosporidiosis,['007.4']
+310429,Cluster headache,"['339.0', '339.0', '339.0']"
+310757,Alpha 1-antitrypsin deficiency,['273.4']
+310898,Croup,['464.4']
+311354,Wernicke–Korsakoff syndrome,['294.0']
+311436,Von Willebrand disease,['286.4']
+311446,Hirschsprung's disease,['751.3']
+311890,Trigeminal neuralgia,['350.1']
+314345,Plantar wart,['078.1']
+314461,Tabes dorsalis,['094.0']
+316524,Fructose bisphosphatase deficiency,NA
+316759,Hyperprolactinaemia,['253.1']
+317082,Urethral stricture,['598']
+317453,Tietz syndrome,NA
+321263,Birth defect,NA
+321556,Tardive dyskinesia,['333.8']
+322177,Penile cancer,['187']
+322197,Tension headache,"['307.8', '339.1']"
+322553,Aneurysm,['442']
+323069,Skeletal fluorosis,['733.9']
+325877,Phantom limb,['353.6']
+330350,Congenital hypothyroidism,['243']
+330923,Cachexia,['799.4']
+331155,Nocturnal enuresis,"['307.6', '788.3']"
+331556,Enuresis,"['788.3', '307.6']"
+331700,Bladder stone,"['594.0', '594.1', '594.2', '594.8', '594.9']"
+332008,Alcoholic Korsakoff syndrome,"['291.1', '294.0']"
+335058,Hypersensitivity,['995.3']
+335391,Kikuchi disease,NA
+335623,Gilbert's syndrome,['277.4']
+336866,Filariasis,"['125.0', '125.9']"
+337378,Ganglion cyst,['727.4']
+337453,Retrograde ejaculation,['608.8']
+339633,Vaccinia,['051.0']
+339761,Ovarian cyst,"['620.0', '620.2']"
+344536,Hepatitis A,"['070.0', '070.1']"
+350926,Retinitis pigmentosa,['362.7']
+355776,Pellagra,['265.2']
+356988,Pleural effusion,['511.9']
+357810,Zollinger–Ellison syndrome,['251.5']
+358490,Avoidant personality disorder,['301.8']
+362417,Mal de debarquement,[]
+363709,Burkitt's lymphoma,['200.2']
+363747,Long QT syndrome,['426.8']
+365012,Encephalitis lethargica,['049.8']
+366112,Chikungunya,"['065.4', '066.3']"
+368300,Pulmonary heart disease,['415.0']
+369730,Body dysmorphic disorder,['300.7']
+377055,Frostbite,"['991.0', '991.3']"
+377387,Immune thrombocytopenic purpura,['287.3']
+378518,Cerebral edema,['348.5']
+381345,Post-polio syndrome,['138']
+382801,Glucose-6-phosphate dehydrogenase deficiency,['282.2']
+383494,Hypospadias,['752.6']
+383531,Epispadias,['752.6']
+384849,Toxic shock syndrome,['040.8']
+384999,Wolff–Parkinson–White syndrome,['426.7']
+391997,Histoplasmosis,['115']
+393023,Dandruff,['690.1']
+395221,Sebaceous hyperplasia,['706.9']
+395667,Pilonidal disease,['685']
+397007,Squamous cell skin cancer,['199']
+398940,Paresthesia,"['782.0', '355.1']"
+398943,Abusive head trauma,['995.5']
+399231,Concussion,['850']
+399452,Limb-girdle muscular dystrophy,['359.1']
+400993,Mastitis,['611.0']
+402041,Chancroid,['099.0']
+404088,Sick building syndrome,[]
+404646,Far-sightedness,['367.0']
+406602,Reye syndrome,['331.8']
+407000,Weissenbacher–Zweymüller syndrome,NA
+410746,Dysautonomia,['337.9']
+411018,Hepatitis E,['070.4']
+411597,Balanitis,['607.1']
+411682,Molluscum contagiosum,['078.0']
+411687,Granuloma inguinale,['099.2']
+411692,Myotonia,['359.2']
+411811,Hypoactive sexual desire disorder,['302.7']
+411879,Dysmenorrhea,['625.3']
+412753,Allergic rhinitis,['477']
+412768,Tinea cruris,['110.3']
+412772,Lichen simplex chronicus,['698.3']
+412786,Tinea versicolor,['111.0']
+412796,Uterine cancer,[]
+412809,Endometrial cancer,['182.0']
+412822,Folliculitis,['704.8']
+414141,Sick sinus syndrome,['427.8']
+414178,Renal cell carcinoma,['189.0']
+414179,Kidney cancer,['189']
+414186,Oral cancer,"['140', '146']"
+414192,Ovarian cancer,"['183', '220']"
+414280,Bad breath,['784.9']
+416351,Retinoschisis,['361.1']
+416948,Bartholin's cyst,['616.2']
+419480,Brill–Zinsser disease,NA
+422525,Schmitt Gillenwater Kelly syndrome,NA
+422600,Patau syndrome,['758.1']
+423910,Spinal muscular atrophies,NA
+424015,Asbestosis,['501']
+424087,Sabinas brittle hair syndrome,NA
+424302,Itch,['698']
+425881,Brucellosis,['023']
+426404,Night terror,['307.4']
+427217,Werner syndrome,['259.8']
+429542,Preterm birth,"['644', '765']"
+431769,Nail disease,"['703', '757.5']"
+435802,Edwards syndrome,['758.2']
+436519,Cycloplegia,['367.5']
+437063,Cinchonism,"['386.9', '961.4']"
+442863,Occipital horn syndrome,NA
+443854,Rh disease,['773.0']
+445761,Cyclopia,['759.8']
+448010,Septic shock,['785.5']
+452461,Myocarditis,"['391.2', '422', '429.0']"
+454231,Chronic lymphocytic leukemia,['204.1']
+455905,Acrophobia,['300.2']
+463223,Boutonneuse fever,['082.1']
+464337,Retinoblastoma,['190.5']
+465162,Retinopathy of prematurity,"['362.2', '362.2']"
+465856,Primary aldosteronism,['255.1']
+465863,Seborrhoeic dermatitis,['690.1']
+470742,Keratitis,['370']
+471444,Melioidosis,['025']
+472537,Thrombotic thrombocytopenic purpura,['446.6']
+475368,Polycythemia vera,['238.4']
+477474,Bronchiolitis,['466.1']
+477489,Human respiratory syncytial virus,['079.6']
+477567,Uremia,"['585', '586', '788.9']"
+482445,Acute respiratory distress syndrome,"['518.5', '518.8']"
+485206,Proteus syndrome,NA
+486429,Prosopagnosia,['368.1']
+488743,Carbon monoxide poisoning,['986']
+489157,Xanthoma,['272.2']
+489173,Peripheral artery disease,['443.9']
+490615,Hyper-IgD syndrome,NA
+491585,Acidosis,['276.2']
+491591,Alkalosis,['276.3']
+492052,Presbyopia,['367.4']
+493567,Epididymitis,['604']
+496984,Castleman's disease,['785.6']
+497722,Hyperuricemia,['790.6']
+497803,Hypercapnia,['786.0']
+500475,Hypotension,"['458', '796.3']"
+500892,Hypovolemia,['276.5']
+502447,Familial Mediterranean fever,['277.3']
+504841,Osteoarthritis,['715']
+512270,Hypocalcaemia,[]
+512274,Hypercalcaemia,['275.4']
+512310,Disorders of calcium metabolism,['275.4']
+513039,Hypercholesterolemia,['272.0']
+513054,Dyslipidemia,['272']
+513180,Paroxysmal nocturnal hemoglobinuria,['283.2']
+513240,Polycythemia,"['289.0', '776.4']"
+515067,Galactosemia,['271.1']
+515380,Thrombocytopenia,['287.5']
+515534,Injury,"['800', '999']"
+515885,Haemophilia C,['286.2']
+518665,Variegate porphyria,['277.1']
+518666,Porphyria cutanea tarda,['277.1']
+518667,Erythropoietic protoporphyria,['277.1']
+522835,Naegleriasis,['136.2']
+523195,Blue balls,NA
+526073,Chilblains,['991.5']
+526094,Osteosclerosis,['756.5']
+526100,Osteopetrosis,['756.5']
+526664,Wernicke encephalopathy,['291.1']
+527756,Photophobia,['368.1']
+529578,Transplant rejection,NA
+530657,Cytokine release syndrome,NA
+533143,Rhinitis,"['472.0', '477']"
+537147,Central nervous system cavernous hemangioma,['228.0']
+537792,Ketoacidosis,NA
+538993,Vitamin B12 deficiency anemia,['281.0']
+539908,Spondyloarthropathy,"['720', '721', '722', '723', '724']"
+540073,Hematochezia,['578.1']
+540100,Upper gastrointestinal bleeding,['578.9']
+542107,Schizotypal personality disorder,['301.2']
+542776,Hemolytic-uremic syndrome,['283.1']
+543406,Adenitis,NA
+544505,Mucopolysaccharidosis,['277.5']
+544743,Wolfram syndrome,NA
+544943,Whipple's disease,['040.2']
+545911,Mitral valve prolapse,"['394.0', '424.0']"
+545918,Chest pain,['786.5']
+545985,Osteomalacia,[]
+546881,Septic arthritis,['711.0']
+548913,Adrenal insufficiency,['255.4']
+549333,Iron overload,['275.0']
+549725,Methylmalonic acidemia,['270.3']
+549792,Propionic acidemia,['270.3']
+549831,Hyperammonemia,['270.6']
+549894,Wilms' tumor,['189.0']
+552577,Medium-chain acyl-coenzyme A dehydrogenase deficiency,['277.8']
+553927,Clubfoot,"['736.7', '754.5', '754.7']"
+555432,Cardiofaciocutaneous syndrome,NA
+556521,Marasmus,['261']
+558596,Leigh syndrome,['330.8']
+558930,Macular edema,"['362.0', '362.5']"
+559874,Chronic myelogenous leukemia,['205.1']
+560154,Infective endocarditis,"['421.0', '421.1']"
+563091,Granulocytosis,NA
+563400,XY gonadal dysgenesis,['752.7']
+564432,Gaucher's disease,['272.7']
+565896,Exploding head syndrome,[]
+567589,Patent ductus arteriosus,['747.0']
+570153,Deep vein thrombosis,['453.4']
+575888,Graft-versus-host disease,['279.5']
+578144,Hidradenitis suppurativa,['705.8']
+580526,Lysosomal storage disease,NA
+581456,Strabismus,['378']
+581459,Amblyopia,['368.0']
+582968,Hematuria,"['599.7', '791.2']"
+584854,Budd–Chiari syndrome,['453.0']
+586404,Premenstrual dysphoric disorder,['311']
+593499,Rheumatism,['729.0']
+593505,Psoriatic arthritis,['696.0']
+593703,Abdominal pain,['789.0']
+595094,Osteomyelitis,['730']
+595631,Dermoid cyst,[]
+600045,Hyperventilation syndrome,['306.1']
+602466,Tuberous sclerosis,['759.5']
+604004,Tumors of the hematopoietic and lymphoid tissues,"['200', '209']"
+604091,Arrhythmogenic right ventricular dysplasia,NA
+606009,Hypertrophic cardiomyopathy,['425.1']
+606011,Dilated cardiomyopathy,['425.4']
+606659,Glucagonoma,"['157.4', '211.7']"
+606777,Anal cancer,NA
+607070,Viral hepatitis,['070']
+607130,Constrictive pericarditis,['423.2']
+608317,Peripheral neuropathy,"['356.0', '356.8']"
+612032,Ichthyosis,['757.1']
+613318,Congenital insensitivity to pain,NA
+613896,Myxedema,['244.9']
+613992,Fabry disease,['272.7']
+615851,Frenulum breve,['607.8']
+616665,Waardenburg syndrome,['270.2']
+616967,Inflammatory bowel disease,NA
+617526,Ichthyosis vulgaris,['757.1']
+617547,Lamellar ichthyosis,NA
+617568,Epidermolytic hyperkeratosis,NA
+618631,Low back pain,['724.2']
+619071,Juvenile idiopathic arthritis,['714.3']
+620879,Growth hormone deficiency,['253.3']
+623034,Atrial flutter,['427.3']
+624463,Dextrocardia,['746.8']
+626861,Situs inversus,['759.3']
+630635,Adenosine deaminase deficiency,['279.2']
+633241,Silicosis,['502']
+634542,Schmorl's nodes,['722.3']
+636229,Kidney disease,NA
+637512,Nosebleed,['784.7']
+637763,Third-degree atrioventricular block,['426.0']
+638645,Short QT syndrome,NA
+640657,Chronic granulomatous disease,['288.1']
+641177,Primary ciliary dyskinesia,['759.3']
+641696,Generalized anxiety disorder,['300.0']
+642396,Dextro-Transposition of the great arteries,['745.1']
+645165,Cloacal exstrophy,[]
+645839,Glioma,['191']
+646092,Mitral valve stenosis,"['394.0', '396.0', '746.5']"
+649760,Leptospirosis,['100']
+650007,Paget's disease of bone,['731.0']
+650825,Myoclonus,['333.2']
+651370,Precocious puberty,['259.1']
+651378,Delayed puberty,['259.0']
+651743,Aortic insufficiency,"['395.1', '746.4']"
+652459,Hypertriglyceridemia,['272.1']
+652505,Combined hyperlipidemia,['272.4']
+653776,Writer's cramp,"['300.8', '333.8']"
+653778,Dystonia,['333']
+657779,Encephalomyelitis,['323']
+660694,Autoimmune polyendocrine syndrome,['258.1']
+662647,Homocystinuria,['270.4']
+663200,Epidermolysis bullosa,['757.3']
+665829,First-degree atrioventricular block,['426.1']
+666831,Trifascicular block,['426.5']
+667428,Vasculitis,"['446', '447.6']"
+667634,Atrial septal defect,"['745.5', '745.6']"
+667775,Ostium primum atrial septal defect,['745.6']
+669831,Microvascular angina,[]
+672768,Heart block,['426.9']
+673555,Second-degree atrioventricular block,"['426.1', '426.1']"
+674529,Pulmonary hypertension,"['416.0', '416.8']"
+679350,Food allergy,[]
+683468,Biliary atresia,['751.6']
+684079,Panniculitis,['729.3']
+684786,Pericarditis,"['420.0', '420.9', '420.9', '420.9', '423.1', '423.2']"
+684811,Hematoma,['729.9']
+685809,Lateral medullary syndrome,NA
+685936,Torsades de pointes,NA
+689982,Nightmare disorder,['307.4']
+692633,Contact dermatitis,['692.9']
+694777,Pervasive developmental disorder not otherwise specified,"['299.9', '299.8']"
+696132,Basal-cell carcinoma,['173']
+697339,Primary biliary cholangitis,['571.6']
+697890,Gestational diabetes,['648.8']
+699676,Angiodysplasia,['569.8']
+702254,Esophageal varices,"['456.0', '456.2']"
+702308,Hypoparathyroidism,['252.1']
+703314,Hyperparathyroidism,['252.0']
+707605,Medial medullary syndrome,NA
+707615,Portal hypertension,['572.3']
+707785,Nasal polyp,['471']
+709933,Craniodiaphyseal dysplasia,NA
+711521,Scrub typhus,['081.2']
+711597,Pleural empyema,['510']
+711932,Lipoid congenital adrenal hyperplasia,NA
+712326,Bursitis,['727.3']
+712333,Carbuncle,['680.9']
+712697,Pulmonary alveolar proteinosis,['516.0']
+714376,Ventricular tachycardia,['427.1']
+714428,Acute kidney injury,['584']
+714452,Chronic kidney disease,"['585.9', '585.1', '585.5', '403']"
+715882,Congenital adrenal hyperplasia due to 11β-hydroxylase deficiency,NA
+715895,Congenital adrenal hyperplasia due to 3β-hydroxysteroid dehydrogenase deficiency,['255.2']
+715934,Snakebite,"['989.5', 'E905.0', 'E906.2']"
+717845,Congenital adrenal hyperplasia due to 17α-hydroxylase deficiency,NA
+718521,Subarachnoid hemorrhage,"['430', '852.0', '852.1']"
+722421,Malignant hyperthermia,['995.8']
+724947,IgA nephropathy,['583.9']
+725237,Mondor's disease,['451.8']
+726615,Paget's disease of the breast,['174']
+727775,Cervical spine disorder,NA
+728628,Thymoma,"['164.0', '212.6']"
+729500,Head and neck cancer,"['140', '149']"
+729741,Acanthosis nigricans,['701.2']
+729746,Alport syndrome,['759.8']
+729812,Amaurosis fugax,['362.3']
+729899,Fructose malabsorption,['271']
+730369,Argyll Robertson pupil,"['094.8', '379.4']"
+730377,Baker's cyst,['727.5']
+730983,Tumor lysis syndrome,"['277.8', '995.2']"
+731319,Hereditary fructose intolerance,['271.2']
+732148,Dupuytren's contracture,['728.6']
+732188,Fitz-Hugh–Curtis syndrome,"['098.8', '099.5']"
+732593,Janeway lesion,NA
+732615,Kayser–Fleischer ring,['371.1']
+732628,Klatskin tumor,['156.1']
+734320,Subdural hematoma,"['852.2', '432.1']"
+738541,Pectus excavatum,['754.8']
+739855,Visual snow,[]
+741847,Hyperkalemia,['276.7']
+743429,Cryptococcosis,['117.5']
+743629,Bleeding diathesis,['287.9']
+744061,Coronary thrombosis,['414.8']
+746673,Bicuspid aortic valve,['746.4']
+746832,Thyroglossal cyst,['759.2']
+752476,Volkmann's contracture,['958.6']
+752895,Meckel's diverticulum,"['152.3', '751.0']"
+754641,Hypogonadism,['257.2']
+754658,Hypopituitarism,"['253.7', '253.2']"
+759166,Thoracic outlet syndrome,['353.0']
+760897,Choanal atresia,['748.0']
+760903,Colles' fracture,NA
+766202,Anisometropia,['367.3']
+767067,Beckwith–Wiedemann syndrome,['759.8']
+767305,Chloracne,NA
+768604,Reflex syncope,[]
+769389,Niemann–Pick disease,['272.7']
+769409,Sin Nombre virus,['079.8']
+772026,Blepharitis,['373.0']
+772724,Opioid use disorder,['304.0']
+779059,Aortic aneurysm,['441']
+780373,Leukocytosis,"['288.3', '288.6']"
+780389,Thrombocythemia,['289.9']
+783842,Photodermatitis,['692.7']
+785061,Insulinoma,"['157.4', '211.7']"
+789862,Infant respiratory distress syndrome,['769']
+792524,Rosacea,['695.3']
+793604,Aneurysm of sinus of Valsalva,NA
+794008,Dry eye syndrome,['370.3']
+794911,Central hypoventilation syndrome,['348.8']
+794996,Granulomatosis with polyangiitis,['446.4']
+797287,Henoch–Schönlein purpura,['287.0']
+797862,Polyneuropathy,"['356.4', '357.1', '357.7']"
+798889,Cerebellar hypoplasia,NA
+799960,Kabuki syndrome,['759.8']
+802065,Congenital adrenal hyperplasia due to 21-hydroxylase deficiency,['255.2']
+803607,Chorea,['333.5']
+815783,Omphalocele,['756.7']
+816984,Retinal detachment,['361']
+817107,Sanfilippo syndrome,['277.5']
+820953,Malabsorption,['579']
+837167,Acute lymphoblastic leukemia,['204.0']
+838449,Atheroma,['440']
+839943,Bone fracture,['829']
+841093,Essential hypertension,[]
+841096,Abdominal aortic aneurysm,"['441.3', '441.4']"
+841098,Thoracic aortic aneurysm,"['441.1', '441.2']"
+841502,Glanzmann's thrombasthenia,['287.1']
+844668,Chalazion,['373.2']
+850801,Fahr's syndrome,NA
+850969,Systemic inflammatory response syndrome,['995.9']
+853501,Erythromelalgia,['443.8']
+856149,Multiple organ dysfunction syndrome,['995.9']
+860894,Lev's disease,['426.0']
+861802,Multiple system atrophy,['333.0']
+862281,Hyperhidrosis,['780.8']
+862505,Infantile hemangioma,['228.0']
+862681,Sheehan's syndrome,['253.2']
+864489,Primary sclerosing cholangitis,['576.1']
+865271,Liver disease,NA
+866988,Refractive error,"['367.0', '367.2', '367.9']"
+868953,Congenital heart defect,"['745', '747']"
+868997,Cyanotic heart defect,[]
+869004,Ventricular septal defect,['745.4']
+869317,Renal agenesis,['753.0']
+869496,Mitral insufficiency,"['394.1', '424.0', '746.6']"
+869927,MASA syndrome,NA
+869937,Aagenaes syndrome,NA
+877196,Psychosexual disorder,['302.7']
+877316,Opsoclonus myoclonus syndrome,['379.5']
+877445,Adjustment disorder,['309']
+877702,Supraventricular tachycardia,"['427.8', '427.0']"
+878528,Aicardi syndrome,['742.2']
+878898,Oral candidiasis,['112.0']
+878905,Leukoplakia,NA
+880777,Conversion disorder,['300.1']
+883645,Blastomycosis,['116.0']
+883951,Mongolian spot,"['757.3', '757.3']"
+885541,Campylobacteriosis,['008.4']
+885739,Listeriosis,['027.0']
+885886,Mirizzi's syndrome,['576.2']
+888915,Hypnagogia,[]
+889831,Labyrinthitis,"['386.3', '386.1']"
+892026,Miller–Dieker syndrome,['758.3']
+892865,Essential thrombocythemia,['238.7']
+893955,La Crosse encephalitis,['062.5']
+893963,Hypereosinophilic syndrome,['288.3']
+895033,Macular degeneration,['362.5']
+897127,Ureterocele,"['593.8', '753.2']"
+898648,Childhood disintegrative disorder,"['299.1', '299.1']"
+898992,Inguinal hernia,['550']
+899236,Irukandji syndrome,NA
+901771,HELLP syndrome,NA
+902762,Pressure ulcer,['707.0']
+903430,Lichen planus,['697.0']
+904585,Gastrointestinal bleeding,['578.9']
+904954,Hives,['708']
+906475,Athlete's foot,['110.4']
+907692,Juvenile dermatomyositis,['710.3']
+907729,Placenta praevia,"['641.0', '641.1']"
+910135,Alexander disease,['331.8']
+910477,Gestational hypertension,['642']
+915830,Usher syndrome,NA
+928781,Optic nerve hypoplasia,"['377.4', '743.5', '743.5']"
+933395,Stye,['373.1']
+934744,Nevus,"['448.1', '216.0', '216.9']"
+938161,Thygeson's superficial punctate keratopathy,['370.2']
+938563,AV nodal reentrant tachycardia,['427.8']
+939814,Phlebitis,['451']
+944199,Erythema multiforme,['695.1']
+945521,Fatty liver,"['571.0', '571.8']"
+945790,Myxoma,['212.7']
+953436,Dressler syndrome,['411.0']
+956462,Sweating sickness,['078.2']
+958401,Idiopathic short stature,['783.4']
+960460,Tennis elbow,['726.3']
+960783,Hereditary angioedema,NA
+960896,Angioedema,"['277.6', '995.1']"
+963201,Hemispatial neglect,['781.8']
+964266,Asplenia,"['289.5', '759.0']"
+968055,Polymicrogyria,['742.2']
+969023,Arthrogryposis,"['728.3', '754.8']"
+972656,Hypokalemia,['276.8']
+974284,Duchenne muscular dystrophy,['359.1']
+975353,Hammer toe,"['735.4', '755.6']"
+975417,Pseudovaginal perineoscrotal hypospadias,NA
+978149,Eisenmenger's syndrome,"['745.4', '745.4']"
+980745,Hypotonia,"['358', '781.3']"
+982456,Movement disorders,"['333.9', '781.0']"
+983793,Persistent Müllerian duct syndrome,NA
+986465,Spontaneous bacterial peritonitis,['567.2']
+987766,Familial thoracic aortic aneurysm,['441.0']
+988477,Noonan syndrome,['759.8']
+988729,Diplopia,['368.2']
+989740,Gardner's syndrome,NA
+991454,Alpha-mannosidosis,['271']
+992796,Pituitary adenoma,['237.0']
+995080,Galactorrhea,"['611.6', '676.6']"
+995668,Boil,['680.9']
+996303,Hypernatremia,['276.0']
+997303,Supernumerary nipple,['757.6']
+999229,Eosinophilic granulomatosis with polyangiitis,['446.4']
+1002473,Gastritis,"['535.0', '535.5']"
+1002640,Abrasion (medical),['919.0']
+1002659,Achilles tendinitis,['726.7']
+1002689,Hereditary multiple exostoses,['756.5']
+1002770,Vestibular schwannoma,['225.1']
+1004981,Goodpasture syndrome,['446.2']
+1007781,Ebstein's anomaly,['746.2']
+1009178,Tracheoesophageal fistula,"['530.8', '750.3']"
+1009319,Hallermann–Streiff syndrome,['756.0']
+1009951,Li–Fraumeni syndrome,['758.3']
+1010090,Coarctation of the aorta,['747.1']
+1010200,Herpangina,['074.0']
+1010229,Glycogen storage disease type II,['271.0']
+1010237,Rhabdomyoma,['215']
+1010250,Molar pregnancy,['630']
+1010256,Libman–Sacks endocarditis,['710.0']
+1010536,Mallory–Weiss syndrome,['530.7']
+1010562,Plummer–Vinson syndrome,['280.8']
+1012386,Bitot's spots,['264.1']
+1013664,Darier's disease,['757.3']
+1017713,Epidural hematoma,['432.0']
+1017739,Spinal tumor,['192.2']
+1017755,Spondylosis,['721']
+1017833,Pancoast tumor,['162.3']
+1017875,Cystinuria,['270.0']
+1017886,Phosphofructokinase deficiency,['271.0']
+1017889,Pyruvate kinase deficiency,['282.3']
+1018486,Hepatosplenomegaly,['571.8']
+1018610,Leukopenia,['288.5']
+1020921,Syndrome of inappropriate antidiuretic hormone secretion,['253.6']
+1021088,Neurasthenia,['300.5']
+1021154,Prolactinoma,['253.1']
+1021164,Ependymoma,"['191.9', '225.0', '237.5']"
+1021239,Small-cell carcinoma,NA
+1021254,Meningioma,['225.2']
+1023575,Glioblastoma,['191']
+1024017,Nocardiosis,['039.9']
+1024337,Steatorrhea,['579.8']
+1024404,Becker's muscular dystrophy,['359.1']
+1025653,Ainhum,['136.0']
+1028498,Benign paroxysmal positional vertigo,['386.1']
+1030988,Esophageal web,NA
+1033232,Postherpetic neuralgia,['053.1']
+1033288,Gastric varices,NA
+1034796,Clonorchiasis,['121.1']
+1035086,Acute pancreatitis,['577.0']
+1035125,Chronic pancreatitis,['577.1']
+1039516,Oculopharyngeal muscular dystrophy,NA
+1042227,Breast engorgement,['676.2']
+1043898,Gnathostomiasis,['128.1']
+1043902,Fasciolosis,['121.3']
+1044236,Twin-to-twin transfusion syndrome,"['762.3', '772.0']"
+1045467,Traveler's diarrhea,['009.2']
+1046292,Salmonellosis,['003.0']
+1051426,Arachnodactyly,['759.8']
+1051609,Pott's fracture,NA
+1053612,Angiosarcoma,NA
+1053949,Spinal cord injury,NA
+1053968,Myelopathy,['336.9']
+1054247,Dermatomyositis,['710.3']
+1057414,Traumatic brain injury,"['800.0', '801.9', '803.0', '804.9', '850.0', '854.1']"
+1058672,Ataxia-telangiectasia,['334.8']
+1059585,Hypermagnesemia,['275.2']
+1059587,Hypomagnesemia,['275.2']
+1059591,Hyperchloremia,['276.9']
+1059594,Hypochloremia,['276.9']
+1059597,Hyperphosphatemia,['275.3']
+1059599,Hypophosphatemia,['275.3']
+1060399,Charley horse,['728.8']
+1061455,Calcinosis cutis,['709.3']
+1062956,Gastrointestinal disease,NA
+1064656,Vancomycin-resistant Staphylococcus aureus,NA
+1072308,Colitis,['556.9']
+1079375,Flat feet,['734']
+1081829,Thromboangiitis obliterans,['443.1']
+1086183,Adrenocortical carcinoma,['194']
+1086440,Ornithine transcarbamylase deficiency,['270.6']
+1089621,Telogen effluvium,['704.0']
+1089783,Thyroid hormone resistance,['246.8']
+1089982,Hyperinsulinism,['251.1']
+1092527,Timothy syndrome,NA
+1092939,Toothache,['525.9']
+1094648,Hairy cell leukemia,['202.4']
+1094665,Bouchard's nodes,NA
+1099226,Urinary retention,['788.2']
+1103461,Wolf–Hirschhorn syndrome,['758.3']
+1104090,Nipple discharge,['611.7']
+1104401,Piriformis syndrome,['355.0']
+1105043,Hepatic encephalopathy,['572.2']
+1106031,Metatarsophalangeal joint sprain,['845.1']
+1106793,Familial adenomatous polyposis,['211.3']
+1110286,Acral lentiginous melanoma,"['172.0', '173.9']"
+1110898,Kallmann syndrome,NA
+1111249,Hyperpigmentation,['709.0']
+1112185,Tick paralysis,['989.5']
+1115749,Lesch–Nyhan syndrome,['277.2']
+1123708,Hurler syndrome,['277.5']
+1123720,Gunther disease,['277.1']
+1123733,Menkes disease,['759.8']
+1123750,Meatal stenosis,['598.9']
+1124428,Congenital insensitivity to pain with anhidrosis,NA
+1125702,Polyarteritis nodosa,['446.0']
+1125767,Treacher Collins syndrome,['756.0']
+1126118,Aase syndrome,NA
+1126223,Rhinoscleroma,['040.1']
+1126336,Hypopigmentation,['709.0']
+1127948,Pityriasis rosea,['696.3']
+1129862,Peutz–Jeghers syndrome,['759.6']
+1137234,Immunodeficiency–centromeric instability–facial anomalies syndrome,NA
+1137742,Chorea acanthocytosis,NA
+1137754,Subconjunctival hemorrhage,['372.7']
+1140141,Water intoxication,['276.6']
+1141135,Caput medusae,['456.8']
+1143957,Port-wine stain,['757.3']
+1145110,Peritonsillar abscess,['475']
+1149394,Cauliflower ear,['738.7']
+1150165,Choreoathetosis,['333.5']
+1150242,Opisthotonus,['781.0']
+1165478,Leiomyoma,['218']
+1166283,Gestational trophoblastic disease,NA
+1167102,Tonsillolith,['474.8']
+1167164,Transient tachypnea of the newborn,['770.6']
+1168570,Joint dislocation,"['830', '848']"
+1169210,Serous tumour,NA
+1169288,Sertoli–Leydig cell tumour,"['183.0', '256.1']"
+1169289,Thecoma,['220']
+1169291,Granulosa cell tumour,"['183', '236.2']"
+1171612,Atelectasis,['518.0']
+1172333,Hairy leukoplakia,['528.6']
+1173614,Adult T-cell leukemia/lymphoma,"['204.0', '208.9']"
+1173689,Stress fracture,"['733.9', '733.9', '733.9']"
+1175839,Lichen sclerosus,['701.0']
+1175860,Bálint's syndrome,['368.1']
+1181346,Berdon syndrome,NA
+1189446,Alopecia universalis,NA
+1189687,Zellweger syndrome,"['277.8', '759.8']"
+1192959,Dermatofibrosarcoma protuberans,NA
+1194872,Potter sequence,"['753.0', '658.0', '761.2']"
+1196268,Glomerulonephritis,"['580', '582']"
+1199991,Zieve's syndrome,['571.1']
+1203753,Keratosis pilaris,['757.3']
+1208899,POEMS syndrome,NA
+1209013,Xeroderma pigmentosum,['757.3']
+1209518,Pemphigus,['694.4']
+1211445,Wiskott–Aldrich syndrome,['279.1']
+1212374,Incontinentia pigmenti,['757.3']
+1212524,Bloom syndrome,['757.3']
+1212545,Familial dysautonomia,['742.8']
+1212595,Aortoiliac occlusive disease,['444.0']
+1212684,Angioma,"['228', '709.1', '759.6']"
+1212808,Gastroschisis,['756.7']
+1213286,Cherry hemangioma,['448.1']
+1213345,Seborrheic keratosis,['702.1']
+1213772,Chondrosarcoma,['170.9']
+1214387,Miliaria,['705.1']
+1217394,Tinea capitis,['110.0']
+1220348,Benign fibrous histiocytoma,['216.9']
+1221516,Small intestinal bacterial overgrowth,['579.8']
+1221743,Clitoromegaly,['752.4']
+1222237,Epiglottitis,"['464.3', '476.1']"
+1222268,Sydenham's chorea,['392']
+1223539,Hereditary nonpolyposis colorectal cancer,"['153.0', '154.1']"
+1226316,Hyperplasia,NA
+1231464,Tropical sprue,['579.1']
+1236730,Neoplasm,"['140', '239.9']"
+1238967,Orthostatic intolerance,NA
+1239047,Postural orthostatic tachycardia syndrome,['337.9']
+1242028,Hyperandrogenism,['255.2']
+1242240,Hypertrichosis,"['704.1', '757.4']"
+1248929,Fetal alcohol spectrum disorder,['760.7']
+1255502,Takayasu's arteritis,['446.7']
+1256552,Primrose syndrome,NA
+1256559,Facial nerve paralysis,['351']
+1257053,Short bowel syndrome,['579.3']
+1258362,Cervical fracture,['805.0']
+1258603,Sebaceous cyst,['706.2']
+1258641,Epidermoid cyst,['706.2']
+1260575,"46,XX testicular disorders of sex development",NA
+1261679,Cold urticaria,['708.2']
+1263037,Renal artery stenosis,['440.1']
+1263226,Rotator cuff tear,"['726.1', '727.6', '840.4']"
+1263292,Adhesive capsulitis of shoulder,['726.0']
+1263943,Erythema marginatum,['695.8']
+1264949,Nonbacterial thrombotic endocarditis,NA
+1267823,Fibromatosis,['728.7']
+1272984,Distal radius fracture,NA
+1273094,Neuromyelitis optica,['341.0']
