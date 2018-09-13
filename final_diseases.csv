@@ -1,0 +1,183 @@
+,icd10,icd9,id,medications,name
+0,"['M00', 'm00', 'M25', 'm20']","['710', '719']",1776,"['Ibuprofen', ' paracetamol (acetaminophen)']",Arthritis
+1,"['Q273', 'q20', 'Q280', 'q20', 'Q282', 'q20']",['324.0'],4531,"['Lithium (medication)|Lithium', ' antipsychotics', ' anticonvulsants']",Bipolar disorder
+2,['N76'],['616.1'],4581,['Clindamycin or metronidazole'],Bacterial vaginosis
+3,['A20'],['020'],4746,['Gentamicin and a fluoroquinolone'],Plague (disease)
+4,"['R402', 'r40']",['780.0'],5876,"['Aspirin', ' beta blockers', ' Medical use of nitroglycerin|nitroglycerin', ' statins']",Coronary artery disease
+5,"['E00', 'e00']",['243'],7012,"['Benznidazole', ' nifurtimox']",Chagas disease
+6,"['B37', 'b35']",['112'],7038,"['Clotrimazole', ' nystatin', ' fluconazole']",Candidiasis
+7,"['G250', 'g20']",['333.1'],10528,"['Beta blockers; propranolol', ' nadolol', ' timolol', ' primidone', ' anti-epileptics; topiramate', ' gabapentin', '  levetiracetam; benzodiazepines']",Essential tremor
+8,"['E01', 'e00', 'E05', 'e00']",['240.9'],13492,"['Beta blockers', ' methimazole']",Hyperthyroidism
+9,"['N301', 'n30']",['595.1'],15354,"['Ibuprofen', ' pentosan polysulfate', ' amitriptyline']",Interstitial cystitis
+10,"['G710', 'g70']","['359.0', '359.1']",18998,"['Acetylcholinesterase inhibitors (neostigmine', ' pyridostigmine)', ' immunosuppressants']",Myasthenia gravis
+11,"['G710', 'g70']","['359.0', '359.1']",20423,['Antimalarial medication'],Malaria
+12,"['G710', 'g70']","['359.0', '359.1']",21035,"['Ibuprofen', ' paracetamol (acetaminophen)', ' triptans', ' ergotamines<ref name=Bart10/>']",Migraine
+13,"['M80', 'm80', 'M82', 'm80']",['733.0'],22461,['Bisphosphonates<ref name=Wells2008/>'],Osteoporosis
+14,"['E700', 'e70']",['270.1'],23251,['Sapropterin dihydrochloride'],Phenylketonuria
+15,['F40'],['300.2'],23337,"['Antidepressants', ' benzodiazepines', ' beta-blockers']",Phobia
+16,"['G932', 'g90']",['348.2'],25161,['Acetazolamide'],Idiopathic intracranial hypertension
+17,"['M70', 'X50', 'Z57']","['E927.1', 'E927.3', 'E927.9', '727.2']",25875,"['Analgesics|Pain medications', ' glucocorticoid|steroids', ' Nonsteroidal anti-inflammatory drugs', ' disease-modifying antirheumatic drugs']",Rheumatoid arthritis
+18,"['G40', 'g40', 'P90', 'p90', 'R56', 'r56']","['345.9', '780.3']",27790,['Antipsychotics'],Schizophrenia
+19,"['F985', 'f90']",['307.0'],28649,"['Pain medication', ' antihistamines', ' antibiotics', ' corticosteroids', ' intravenous immunoglobulins']",Stevens–Johnson syndrome
+20,"['F985', 'f90']",['307.0'],28848,"['Permethrin', ' crotamiton', ' lindane', ' ivermectin']",Scabies
+21,"['F985', 'f90']",['307.0'],29500,"['Benzodiazepines', ' cyproheptadine']",Serotonin syndrome
+22,"['C71', 'D33']","['191', '225.0']",37284,"['Anticonvulsants', ' dexamethasone', ' furosemide']",Brain tumor
+23,['A923'],['066.4'],38390,['Acetylcholinesterase inhibitor|Cholinesterase inhibitors (small benefit)<ref name=Kav2007/>'],Dementia
+24,['R56'],['125.7'],44700,"['Rifampicin', ' dapsone', ' clofazimine']",Leprosy
+25,"['E232', 'e20', 'N251', 'n25']","['253.5', '588.1']",44738,"['Desmopressin', ' thiazides', ' aspirin']",Diabetes insipidus
+26,"['E232', 'e20', 'N251', 'n25']","['253.5', '588.1']",45475,"['Beta blockers', ' calcium channel blockers', ' ACE inhibitors<ref name=NORD2017/>']",Marfan syndrome
+27,"['R50', 'r50']",['780.6'],46253,"['Ibuprofen', ' paracetamol (acetaminophen)<ref name=Ric2015/>']",Fever
+28,"['F40', 'f40', 'F40', 'f40']","['307.4', '327', '780.5']",47878,['Tetrabenazine'],Huntington's disease
+29,"['F40', 'f40', 'F40', 'f40']","['307.4', '327', '780.5']",49364,"['Human growth hormone', ' estrogen replacement therapy']",Turner syndrome
+30,"['N950', 'N80']",['627.2'],49611,"['Menopausal hormone therapy', ' clonidine', ' gabapentin', ' selective serotonin reuptake inhibitors<ref name=NIH2013Tx/>']",Menopause
+31,"['D22', 'd10']",['216'],50605,"['Diazepam', ' baclofen', ' botulinum toxin']",Cerebral palsy
+32,"['R798', 'r70']",['790.6'],52135,"['Antibiotics', ' antivirals', ' oxygen therapy<ref name=NIH2011Tx/>']",Pneumonia
+33,"['C53', 'c51']",['180'],54301,"['Birth control pills', ' metformin', ' anti-androgens']",Polycystic ovary syndrome
+34,"['Q871', 'q80']",['759.8'],54996,['Growth hormone therapy'],Prader–Willi syndrome
+35,"['T784', 't66']",['995.3'],55313,"['Corticosteroid|Steroids', ' Histamine antagonist|antihistamines', ' epinephrine<ref name=Review09/>']",Allergy
+36,"['F842', 'f80']",['330.8'],56476,['Anticonvulsants'],Rett syndrome
+37,"['E750', 'e70']",['330.1'],56483,"['Usually none', ' occasionally antipsychotics']",Tourette syndrome
+38,"['E73', 'e70']",['271.3'],57688,"['Antidepressants', ' anxiolytics', ' beta blockers']",Anxiety disorder
+39,['A983'],['078.8'],59171,"['Analgesic|Pain medication', ' intravenous immunoglobulin']",Mumps
+40,"['T703', 't66']",['993.3'],61593,['Albendazole'],Echinococcosis
+41,"['A523', 'a50', 'A527', 'a50']","['090.5', '094.9', '095', '102.6']",61970,"['Albendazole', ' mebendazole', ' ivermectin']",Trichuriasis
+42,"['M358', 'm30']",['710.5'],63522,"['Corticosteroids', ' methotrexate']",Crohn's disease
+43,"['K51', 'k50']",['556'],63531,"['Sulfasalazine', ' mesalazine', ' corticosteroids|steroids', ' immunosuppressants such as azathioprine', ' Biological therapy for inflammatory bowel disease|biological therapy']",Ulcerative colitis
+44,"['K51', 'k50']",['556'],63791,"['Proton pump inhibitor', ' H2 blocker', ' antibiotics<ref name=Na2011/>']",Peptic ulcer disease
+45,"['F90', 'f90']","['314.0', '314.0']",64976,"['CNS stimulants|Stimulants', ' atomoxetine', ' guanfacine<ref>{{cite journal | vauthors = Coghill DR', ' Banaschewski T', ' Soutullo C', ' Cottingham MG', ' Zuddas A | title = Systematic review of quality of life and functional outcomes in randomized placebo-controlled studies of medications for attention-deficit/hyperactivity disorder | journal = European Child & Adolescent Psychiatry | volume = 26 | issue = 11 | pages = 1283–1307 | date = November 2017 | pmid = 28429134 | pmc = 5656703 | doi = 10.1007/s00787-017-0986-y }}</ref><ref>{{cite journal | vauthors = Jain R', ' Katic A | title = Current and Investigational Medication Delivery Systems for Treating Attention-Deficit/Hyperactivity Disorder | journal = The Primary Care Companion for CNS Disorders | volume = 18 | issue = 4 | date = August 2016 | pmid = 27828696 | doi = 10.4088/PCC.16r01979 }}']",Attention deficit hyperactivity disorder
+46,"['F633', 'f60']",['312.3'],68937,"['Cognitive behavioral therapy', ' clomipramine']",Trichotillomania
+47,"['S18', 's10']","['174', '175']",71491,"['Sofosbuvir', ' simeprevir<ref name=CDC2016 />']",Hepatitis C
+48,"['B25', 'b25']",['078.5'],74555,"['Azelaic acid', ' benzoyl peroxide', ' salicylic acid', ' antibiotics', ' combined oral contraceptive pill|birth control pills', ' isotretinoin']",Acne
+49,"['H71', 'h65']",['385.3'],82974,['Selective serotonin reuptake inhibitor'],Posttraumatic stress disorder
+50,"['B75', 'b65']",['124'],83947,"['Albendazole', ' mebendazole']",Trichinosis
+51,"['B75', 'b65']",['276.2'],85385,"['Statins', ' high blood pressure medication', ' aspirin']",Atherosclerosis
+52,"['C61', 'c60']",['185'],88164,"['Alpha blockers such as terazosin', ' 5α-reductase inhibitors such as finasteride']",Benign prostatic hyperplasia
+53,"['A59', 'a50']","['131', '007.3']",88869,['Antibiotics (metronidazole or tinidazole)'],Trichomoniasis
+54,"['L01', 'l00']",['684'],92399,"['Antibiotics (mupirocin', ' fusidic acid', ' cephalexin)<ref name=AFP2014/>']",Impetigo
+55,"['L01', 'l00']",['684'],92409,['Antibiotics (severe cases)'],Shigellosis
+56,"['L01', 'l00']",['684'],92693,['NSAIDs'],Common cold
+57,"['G210', 'g20']",['333.9'],99277,"['Dantrolene', ' bromocriptine', ' diazepam']",Neuroleptic malignant syndrome
+58,"['B56', 'b50']",['086.5'],141029,"['Pentamidine', ' suramin', ' eflornithine']",African trypanosomiasis
+59,"['R560', 'r50']",['780.3'],151524,['Benzodiazepines (rarely needed)'],Febrile seizure
+60,"['K590', 'k55']",['564.0'],168509,"['Laxatives of the bulk forming agent', ' Laxative#Hyperosmotic agents|osmotic agent', ' stool softener', ' or Laxative#Lubricant agents|lubricant type']",Constipation
+61,"['F502', 'f50']",['307.5'],168536,"['Selective serotonin reuptake inhibitors', ' tricyclic antidepressant<ref name=Hay2010/>']",Bulimia nervosa
+62,['G02'],['321.2'],172321,['Pain medication such as ibuprofen'],"Hand, foot, and mouth disease"
+63,"['D46', 'd37']",['238.7'],186367,"['Lenalidomide', ' antithymocyte globulin', ' azacitidine']",Myelodysplastic syndrome
+64,"['A630', 'a50']",['078.1'],188665,"['Podophyllin', ' imiquimod', ' trichloroacetic acid']",Genital wart
+65,"['E871', 'e70']",['276.1'],191304,['Praziquantel'],Schistosomiasis
+66,"['U04', 'u00']",['079.8'],196991,"['Antacids', ' H2 antagonist|H<sub>2</sub> receptor blockers', ' proton pump inhibitors', ' prokinetics<ref name=NIH2014/>']",Gastroesophageal reflux disease
+67,"['R18', 'r10']",['789.5'],197574,"['Spironolactone', ' furosemide']",Ascites
+68,"['K44', 'k40', 'Q401', 'q38']","['553.3', '750.6']",198188,"['H2 blockers', ' proton pump inhibitors']",Hiatal hernia
+69,"['D67', 'd65']",['286.1'],199665,"['Proton pump inhibitor', ' clarithromycin', ' amoxicillin', ' metronidazole']",Helicobacter pylori
+70,"['L659', 'l60']",['704.0'],200129,"[""'''Pattern hair loss''': minoxidil"", "" finasteride<ref name=Mc2012/><br>'''Alopecia areata''': Steroid injections""]",Hair loss
+71,"['G91', 'g90', 'Q03', 'q00']","['331.3', '331.4', '741.0', '742.3']",205224,['Lonafarnib'],Progeria
+72,"['G211', 'g20', 'D10']","['781.0', '333.9']",211273,"['Diphenhydramine', ' trazodone', ' benztropine', ' mirtazapine', ' beta blockers<ref name=La2014/>']",Akathisia
+73,"['G211', 'g20', 'D10']","['781.0', '333.9']",215199,"['Paracetamol (acetaminophen)', ' ibuprofen', ' benzocaine ear drops']",Otitis media
+74,['N94'],['625.4'],217947,"['Calcium and vitamin D supplementation', ' NSAIDs', ' birth control pills<ref name=AFP2011/>']",Premenstrual syndrome
+75,"['G318', 'g30']",['331.8'],227167,"['Acetylcholinesterase inhibitors such as donepezil and rivastigmine', '<ref name=McKeithConsensus2017/> melatonin']",Dementia with Lewy bodies
+76,"['F601', 'f60']",['301.2'],229063,"['Low dose benzodiazepines', ' Beta blocker|β-blockers', ' nefazodone', ' bupropion', ' low dose of risperidone or olanzapine']",Schizoid personality disorder
+77,"['T20', 't20', 'T31', 't20']","['940', '949']",233082,"['Pain medication', ' intravenous fluids', ' tetanus toxoid']",Burn
+78,"['D65', 'd65']",['286.6'],238124,"['platelet transfusion|Platelets', ' cryoprecipitate', ' fresh frozen plasma', ' heparin']",Disseminated intravascular coagulation
+79,['G258'],['333.9'],240832,"['Levodopa', ' dopamine agonists', ' gabapentin']",Restless legs syndrome
+80,"['Q213', 'q20']",['059.0'],242702,['Cidofovir'],Monkeypox
+81,"['C15', 'c15']",['150'],244113,"['Doxycycline', ' amoxicillin', ' cefuroxime']",Lyme disease
+82,"['I60', 'i60', 'I69', 'i69']",['700'],249930,"['Diuretics', ' cardiac medications<ref name=NICEChp3/>']",Heart failure
+83,"['A21', 'a20']",['021'],274848,"['Streptomycin', ' gentamicin', ' doxycycline', ' ciprofloxacin']",Tularemia
+84,"['B080', 'b00', 'B08', '040']",['051.2'],276846,"['Ivermectin', ' doxycycline<ref name=Murray2013/>']",Onchocerciasis
+85,"['T560', 't51']",['984.9'],294338,"['Dimercaprol', ' edetate calcium disodium', ' succimer']",Lead poisoning
+86,"['C62', 'c60']",['186.9'],301373,"['Azithromycin', ' benzathine benzylpenicillin|benzathine penicillin']",Yaws
+87,"['E880', 'e70']",['273.4'],310757,"['Bronchodilators', ' inhaled steroids', ' antibiotics', ' intravenous infusions of A1AT protein']",Alpha 1-antitrypsin deficiency
+88,"['J050', 'j00']",['464.4'],310898,"['corticosteroids|Steroids', ' epinephrine<ref name=PedN09/>']",Croup
+89,"['G500', 'g50', 'G44', '847']",['350.1'],311890,"['Carbamazepine', ' oxcarbazepine']",Trigeminal neuralgia
+90,"['E703', 'e70', 'E70', '358']",['598'],318049,"['Duloxetine', ' milnacipran', ' pregabalin', ' gabapentin<ref name=NIH2014Tx/><ref name=Coch2017Gab>{{cite journal|last1=Cooper|first1=TE|last2=Derry|first2=S|last3=Wiffen|first3=PJ|last4=Moore|first4=RA|title=Gabapentin for fibromyalgia pain in adults.|journal=The Cochrane Database of Systematic Reviews|date=3 January 2017|volume=1|pages=CD012188|doi=10.1002/14651858.CD012188.pub2|pmid=28045473}}']",Fibromyalgia
+91,"['G240', 'g20']",['333.8'],321556,"['Valbenazine', ' tetrabenazine', ' botulinum toxin<ref name=GARD2017/>']",Tardive dyskinesia
+92,"['G442', 'g40']","['307.8', '339.1']",322269,"['Paracetamol (acetaminophen)', ' ibuprofen']",Pleurisy
+93,"['N830', 'n80', 'N832', 'n80']","['620.0', '620.2']",344287,"[""'''Acute poisoning''': dimercaptosuccinic acid (DMSA)"", ' dimercaptopropane sulfonate (DMPS)']",Mercury poisoning
+94,"['H355', 'h30']",['362.7'],350926,['Vitamin A palmitate'],Retinitis pigmentosa
+95,"['T33', 't33', 'T35', 't33']","['991.0', '991.3']",377055,"['Ibuprofen', ' tetanus vaccine', ' iloprost', ' thrombolytics']",Frostbite
+96,[],['690.1'],393023,['antifungal medications|Antifungal cream (ketoconazole)'],Dandruff
+97,"['S060', 's00']",['850'],399231,"['Paracetamol (acetaminophen)', ' NSAIDs']",Concussion
+98,"['G937', 'g90']",['331.8'],406602,['Mannitol'],Reye syndrome
+99,"['B081', 'b00']",['078.0'],411682,"['Cimetidine', ' podophyllotoxin']",Molluscum contagiosum
+100,"['N944', 'n80', 'N946', 'n80']",['625.3'],411879,"['NSAIDs such as ibuprofen', ' hormonal birth control', ' IUD with progestogen<ref name=AFP2014/>']",Dysmenorrhea
+101,"['N944', 'n80', 'N946', 'n80']",['625.3'],411991,"['Tinidazole', ' metronidazole']",Giardiasis
+102,"['J30', 'j30']",['477'],412753,"['Nasal corticosteroids|steroids', ' antihistamines such as diphenhydramine', ' cromolyn sodium', ' leukotriene receptor antagonists such as montelukast', ' allergen immunotherapy<ref name=NIH2015Tx/>']",Allergic rhinitis
+103,"['L739', 'l60', 'L73']",['704.8'],413928,"['Albendazole', ' mebendazole', ' levamisole', ' pyrantel pamoate']",Ascariasis
+104,"['R196', 'r10']",['784.9'],414280,['Mouthwash containing chlorhexidine or cetylpyridinium chloride<ref name=Kap2016/>'],Bad breath
+105,"['R196', 'r10']",['784.9'],414350,"['Paracetamol (acetaminophen)', ' ibuprofen']",Tooth decay
+106,"['R196', 'r10']",['784.9'],414967,"['Labetalol', ' methyldopa', ' magnesium sulfate<ref name=Aru2013/>']",Pre-eclampsia
+107,"['O601', 'o60', 'P073', 'p05']","['644', '765']",429592,"['Antibiotics', ' etretinate', ' retinoids']",Harlequin-type ichthyosis
+108,"['E830', 'e83']","['386.9', '961.4']",443800,"['Aciclovir (if given early)', ' pain medication']",Shingles
+109,"['I090', 'i05', 'I514', 'i30']","['391.2', '422', '429.0']",452461,"['ACE inhibitors', ' beta blockers', ' diuretics', ' corticosteroids', ' intravenous immunoglobulin<ref name=NEJM2009/>']",Myocarditis
+110,"['L21', 'l20']",['690.1'],465863,"['antifungal medications|Antifungal cream', ' anti-inflammatory agents', ' coal tar', ' phototherapy']",Seborrhoeic dermatitis
+111,"['I739', 'i70']",['443.9'],489173,"['Statins', ' ACE inhibitors', ' cilostazol']",Peripheral artery disease
+112,"['I739', 'i70']",['443.9'],491494,"['NSAIDs', ' corticosteroids|steroids', ' Disease-modifying antirheumatic drug|DMARDs']",Ankylosing spondylitis
+113,"['N450', 'n40']",['604'],493567,"['NSAIDs', ' ceftriaxone and doxycycline', ' ofloxacin']",Epididymitis
+114,"['M00', 'm00', 'M03', 'm00']",['711.0'],546881,"['Vancomycin', ' ceftriaxone', ' ceftazidime']",Septic arthritis
+115,"['I802', 'i80']",['453.4'],570153,"['Low-molecular-weight heparin', ' warfarin', ' direct oral anticoagulant<ref name=Mer2016/>']",Deep vein thrombosis
+116,"['L732', 'l60']",['705.8'],578144,"['Antibiotics', ' immunosuppressive medication']",Hidradenitis suppurativa
+117,['F388'],['311'],593388,"['Iron supplements', ' vitamin C', ' blood transfusions']",Iron-deficiency anemia
+118,"['I421', 'i30', 'I422', 'i30']",['425.1'],606009,"['Beta blockers', ' diuretics', ' disopyramide']",Hypertrophic cardiomyopathy
+119,"['I420', 'i30']",['425.4'],606011,"['ACE inhibitor', ' beta blocker', ' diuretic', ' anticoagulants|blood thinners']",Dilated cardiomyopathy
+120,"['R943', 'r94']",['426.0'],638645,"['Quinidine', ' Flecainide ']",Short QT syndrome
+121,"['I270', 'i26', 'I272', 'i26']","['416.0', '416.8']",674529,"['Epoprostenol', ' treprostinil', ' iloprost', ' bosentan', ' ambrisentan', ' macitentan', ' sildenafil']",Pulmonary hypertension
+122,"['T780', 't66']",[],679350,['Adrenaline (epinephrine)'],Food allergy
+123,"['I60', 'i60', 'P103', 'p10', 'S066', 's00']","['430', '852.0', '852.1']",718521,"['Labetalol', ' nimodipine']",Subarachnoid hemorrhage
+124,"['M720', 'm70']",['728.6'],732173,['Antibiotics such as cephalexin<ref name=Vary2014/>'],Cellulitis
+125,"['E875', 'e70']",['276.7'],741847,"['Calcium gluconate', ' dextrose with insulin', ' salbutamol', ' sodium bicarbonate<ref name=Leh2011/><ref name=EU2010/>']",Hyperkalemia
+126,"['S525', 's50']",['748.0'],760951,"['Praziquantel', ' albendazole', ' corticosteroids', ' anti seizure medications']",Cysticercosis
+127,"['R55', 'r50']",[],768604,"['Midodrine', ' fludrocortisone']",Reflex syncope
+128,"['F11', 'f10']",['304.0'],772724,"['Buprenorphine', ' methadone', ' naltrexone<ref name=BMJ2017Re/><ref name=Shar2016>{{cite journal|last1=Sharma|first1=B|last2=Bruner|first2=A|last3=Barnett|first3=G|last4=Fishman|first4=M|title=Opioid Use Disorders.|journal=Child and adolescent psychiatric clinics of North America|date=July 2016|volume=25|issue=3|pages=473–87|doi=10.1016/j.chc.2016.03.002|pmid=27338968|pmc=4920977}}']",Opioid use disorder
+129,"['L71', 'l60']",['695.3'],792524,['Antibiotics either by mouth or applied to the skin'],Rosacea
+130,"['H193', 'h15']",['370.3'],794008,"['Ciclosporin', ' corticosteroid|steroid eye drops']",Dry eye syndrome
+131,"['L43', 'l40']",['697.0'],903516,"['Paracetamol (acetaminophen)', ' ibuprofen', ' penicillin']",Tonsillitis
+132,"['K922', 'k90']",['578.9'],904585,"['Proton pump inhibitors', ' octreotide', ' antibiotics<ref name=PPI2007/>']",Gastrointestinal bleeding
+133,"['D841', 'd80', 'D84', '110']",['726.3'],960783,"['C1 inhibitor', ' ecallantide', ' icatibant']",Hereditary angioedema
+134,"['D841', 'd80', 'T783', 't66']","['277.6', '995.1']",960896,"[""'''Histamine''': antihistamines"", ' corticosteroids', "" epinephrine<ref name=Bern2017/><br>'''Bradykinin''': C1 esterase inhibitor"", ' ecallantide', ' icatibant', ' fresh frozen plasma']",Angioedema
+135,"['C70', 'c70', 'D32', 'd32']",['225.2'],1021254,"['Anticonvulsants', ' corticosteroids']",Meningioma
+136,"['C71', 'c69']",['191'],1023575,"['Temozolomide', ' corticosteroids|steroids<ref name=Hart2013/>']",Glioblastoma
+137,"['K860', 'k80', 'K861', 'k80']",['577.1'],1038491,"['Aspirin', ' immunoglobulin']",Kawasaki disease
+138,"['M330', 'm30', 'M331', 'm30', 'M33', '910']",['710.3'],1054247,"['Corticosteroids', ' methotrexate', ' azathioprine']",Dermatomyositis
+139,"['K50', 'k50', 'K52']",['556.9'],1079203,"['Albendazole', ' mebendazole', ' iron supplements']",Hookworm infection
+140,"['R33', 'r30']",['788.2'],1099226,"['Alpha blockers such as terazosin', ' 5α-reductase inhibitors such as finasteride']",Urinary retention
+141,['G570'],['355.0'],1104401,"['NSAIDs', ' Corticosteroid|steroids', ' botulinum toxin injections']",Piriformis syndrome
+142,['D477'],['757.3'],1209178,"['Azithromycin', ' tetracycline']",Trachoma
+143,"['C00', 'c00', 'D48', 'd37']",['337.9'],1239047,"['Beta blockers', ' pyridostigmine', ' midodrine', ' and fludrocortisone.']",Postural orthostatic tachycardia syndrome
+144,['K91'],['579.3'],1257053,"['Antibiotics', ' antacids', ' loperamide', ' teduglutide', ' growth hormone']",Short bowel syndrome
+145,['S525'],['728.7'],1272984,"['Analgesics|Pain medication', ' elevation']",Distal radius fracture
+146,"['N10', 'n10', 'N12', 'n10', 'N136', 'n10', 'N209', 'n20']","['590.0', '590.1', '590.3', '590.8', '590.8']",1416530,"['Antibiotics (ciprofloxacin', ' ceftriaxone)']",Pyelonephritis
+147,"['O45', 'o30']",['641.2'],1422476,['Corticosteroids'],Placental abruption
+148,"['P140', 'p10']",['368.6'],1562567,['Dexamethasone'],Intussusception (medical disorder)
+149,"['J690', 'j60', 'P249', 'p20']","['507', '770.1', '997.3']",1627307,"['Clindamycin', ' meropenem', ' ampicillin/sulbactam', ' moxifloxacin']",Aspiration pneumonia
+150,"['S623', 's60']",['733.6'],1649200,"['Ibuprofen', ' paracetamol (acetaminophen)']",Boxer's fracture
+151,"['S720', 's70']",['371.5'],1706838,"['Opioids', ' nerve block']",Hip fracture
+152,"['A819', 'a80']",['046.7'],1771587,['Folic acid'],Pregnancy
+153,"['D25', 'd10']",['218'],1772647,"['Ibuprofen', ' paracetamol (acetaminophen)', ' iron supplements', ' gonadotropin releasing hormone agonist']",Uterine fibroid
+154,"['E702', 'e70']","['569.8', '863.9']",2054250,"['Intravenous fluids', ' antibiotics']",Gastrointestinal perforation
+155,['O21'],['643.1'],2184861,"['Pyridoxine', ' metoclopramide']",Hyperemesis gravidarum
+156,"['B351', 'b35']",['110.1'],2246132,"['Terbinafine', ' ciclopirox']",Onychomycosis
+157,"['B258', 'b25', 'H309', 'h30']",['078.5'],2522115,['Antivirals(oral or intraocular injection)'],Cytomegalovirus retinitis
+158,"['L564', 'l55']",['692.7'],3125085,['* Topical corticosteroids'],Polymorphous light eruption
+159,"['S223', 's20', 'S224', 's20']","['807.0', '807.1']",3634070,"['Paracetamol (acetaminophen)', ' NSAIDs', ' opioids']",Rib fracture
+160,['E23'],['253.8'],4294023,['Manage abnormal hormone levels'],Empty sella syndrome
+161,['I67'],['437.2'],5695128,"['Labetalol', ' sodium nitroprusside']",Hypertensive encephalopathy
+162,"['Q772', 'q65']",[],5891790,['Bone marrow transplant'],Bare lymphocyte syndrome type II
+163,"['C723', 'c69']",['242.9'],6028064,['Albendazole with ivermectin or diethylcarbamazine'],Lymphatic filariasis
+164,"['S32', 'S32', 'S32', 'S32']",['808'],6217255,['Pain medication'],Pelvic fracture
+165,"['Q615', 'q61']",['753.1'],6484732,"['Currently no cure', ' Drink plenty of fluids', ' Salt supplement']",Medullary cystic kidney disease
+166,"['S430', 's40']",['831'],8213262,"['Procedural sedation and analgesia', "" intraarticular lidocaine<ref name=Wak2011>{{cite journal|last1=Wakai|first1=A|last2=O'Sullivan|first2=R|last3=McCabe|first3=A|title=Intra-articular lignocaine versus intravenous analgesia with or without sedation for manual reduction of acute anterior shoulder dislocation in adults.|journal=The Cochrane Database of Systematic Reviews|date=13 April 2011|issue=4|pages=CD004919|doi=10.1002/14651858.CD004919.pub2|pmid=21491392}}""]",Dislocated shoulder
+167,"['G711', 'g70']",['758.5'],8276508,"['Mexiletine', ' carbamazepine', ' tricyclic antidepressants', ' nonsteroidal anti inflammatory drugs']",Myotonic dystrophy
+168,"['J84112', 'j80']",['516.3'],8768565,"['Pirfenidone', ' nintedanib']",Idiopathic pulmonary fibrosis
+169,"['S920', 's90']","['825.0', '825.2']",8797938,"['NSAIDs', ' opioids']",Calcaneal fracture
+170,"['F50', 'F65']",[],9738056,['Ketamine or midazolam and haloperidol'],Excited delirium
+171,"['I426', 'i30']",[],12523440,"['Atropine', ' oximes', ' diazepam']",Organophosphate poisoning
+172,"['D462', 'd37']",['238.7'],14912487,"['Antihistamines', ' propranolol', ' corticosteroids|steroids']",Aquagenic urticaria
+173,"['B850', 'b85']",['757.3'],18707721,"['Malathion', ' ivermectin', ' dimeticone|dimethicone']",Head lice infestation
+174,"['N258', 'n25']",['279.8'],18821046,"['Calamine lotion', ' paracetamol (acetaminophen)', ' aciclovir']",Chickenpox
+175,"['L270', 'l20', 'L271', 'l20']","['692.3', '782.1']",18835541,"['Modafinil', ' sodium oxybate', ' methylphenidate']",Narcolepsy
+176,"['N288', 'n25']",[],18914017,"['Acetylcholinesterase inhibitors', ' NMDA receptor antagonists (small benefit)']",Alzheimer's disease
+177,"['T518', 't518']",[],18936112,"['Fomepizole', ' ethanol']",Ethylene glycol poisoning
+178,"['C46', 'c45']",['176'],19468046,"['Nonsteroidal anti-inflammatory drugs', ' immunosuppressants', ' intravenous immunoglobulin<ref name=NIH2012/>']",Autoimmune disease
+179,"['Q05', 'q00', 'Q760', 'q65']","['741', '756.1']",19572217,['Antiviral drugs such as oseltamivir'],Influenza
+180,"['E771', 'e77']",['111.3'],20177010,['Pain medication'],Patellar dislocation
+181,"['E872', 'e70']",['276.2'],20556798,"['Aspirin', ' Nitroglycerin (drug)|nitroglycerin', ' heparin<ref name=Europe2012/>']",Myocardial infarction
